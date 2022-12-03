@@ -1,0 +1,14 @@
+
+S
+java:S1854
+"8Remove this useless assignment to local variable "salt".(„æµÆùÿÿÿÿ
+D
+java:S1481
+")Remove this unused "salt" local variable.(„æµÆùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ì¿Ø€øÿÿÿÿ
+@
+java:S1197"*Move the array designators [] to the type.(Ð½äé
+O
+java:S4719"9Replace charset name argument with StandardCharsets.UTF_8(Ð½äé
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ô²ÒÛ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ú¾úÔýÿÿÿÿ8–Œ¦Ëø/

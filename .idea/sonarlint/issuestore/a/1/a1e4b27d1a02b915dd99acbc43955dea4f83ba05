@@ -1,0 +1,10 @@
+
+V
+java:S1854"9Remove this useless assignment to local variable "teste".(ïúçø8â¨Ó¶¾0
+V
+java:S1854	";Remove this useless assignment to local variable "scanner".(ù ƒ‘üÿÿÿÿ
+G
+java:S1481	",Remove this unused "scanner" local variable.(ù ƒ‘üÿÿÿÿ
+G
+java:S1481"*Remove this unused "teste" local variable.(ïúçø8å¨Ó¶¾0
+S	java:S106"9Replace this use of System.out or System.err by a logger.(èØ˜üÿÿÿÿ

@@ -1,0 +1,9 @@
+
+“
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú78‰œ­±¾0
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Þ¶‹Œüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(•£¾Ó
+E
+java:S1481"*Remove this unused "valor" local variable.(¿›ã¤ùÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ

@@ -1,0 +1,7 @@
+
+\
+java:S1854"FRemove this useless assignment to local variable "dataSaidaFormatada".(İ·Ìò
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(éí÷„ùÿÿÿÿ
+M
+java:S1481"7Remove this unused "dataSaidaFormatada" local variable.(İ·Ìò
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÜöÈöşÿÿÿÿ

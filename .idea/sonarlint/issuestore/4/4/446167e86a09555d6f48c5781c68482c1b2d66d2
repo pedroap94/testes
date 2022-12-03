@@ -1,0 +1,6 @@
+
+G
+java:S1481"*Remove this unused "teste" local variable.(ô¿øÉ8¢Ì¬Ñ÷/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¡³¨Œøÿÿÿÿ8£Ì¬Ñ÷/
+K
+java:S1144".Remove this unused private "setStatus" method.(Õ†’ß8¤Ì¬Ñ÷/

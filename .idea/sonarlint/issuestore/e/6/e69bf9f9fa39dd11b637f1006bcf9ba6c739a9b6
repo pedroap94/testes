@@ -1,0 +1,32 @@
+
+O
+java:S1118":Add a private constructor to hide the implicit public one.(ŒÅüg
+U
+java:S1854":Remove this useless assignment to local variable "result".(ë¢Ÿıÿÿÿÿ
+F
+java:S1481"+Remove this unused "result" local variable.(ë¢Ÿıÿÿÿÿ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(­ËÖşÿÿÿÿ
+‚
+java:S1130/"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø
+V	java:S1250"<This block of commented-out lines of code should be removed.(•éö•úÿÿÿÿ
+Q	java:S125?"<This block of commented-out lines of code should be removed.(èß€í
+V	java:S125C"<This block of commented-out lines of code should be removed.(Ğ°¶óüÿÿÿÿ
+<
+java:S1128"&Remove this unused import 'java.math'.(âî©
+@
+java:S1128"*Remove this unused import 'java.security'.(èÛò§
+<
+java:S1128"&Remove this unused import 'java.text'.(ë¼Èí
+F
+java:S1128"1Remove this unused import 'java.util.concurrent'.(íĞ¢6
+E
+java:S1128"/Remove this unused import 'java.util.function'.(Üş’¿
+B
+java:S1128",Remove this unused import 'java.util.regex'.(£‘¬Ş
+H
+java:S1128	"-Remove this unused import 'java.util.stream'.(§æĞçøÿÿÿÿ
+[
+java:S1128
+"@Remove this unused import 'java.util.stream.Collectors.joining'.(Æñ¿âşÿÿÿÿ
+U
+java:S1128"?Remove this unused import 'java.util.stream.Collectors.toList'.(ã‚ºÎ

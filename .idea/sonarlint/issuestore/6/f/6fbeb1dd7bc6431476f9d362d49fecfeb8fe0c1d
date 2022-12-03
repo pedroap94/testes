@@ -1,0 +1,15 @@
+
+Q
+java:S1854."6Remove this useless assignment to local variable "c3".(°Ùô±üÿÿÿÿ
+Q
+java:S1854-"6Remove this useless assignment to local variable "c2".(·ŽÎæÿÿÿÿÿ
+Q
+java:S1854,"6Remove this useless assignment to local variable "c1".(€‹„Þúÿÿÿÿ
+K
+java:S1172+"0Remove this unused method parameter "cachorros".(×Òáàûÿÿÿÿ
+B
+java:S1481,"'Remove this unused "c1" local variable.(€‹„Þúÿÿÿÿ
+B
+java:S1481-"'Remove this unused "c2" local variable.(·ŽÎæÿÿÿÿÿ
+B
+java:S1481."'Remove this unused "c3" local variable.(°Ùô±üÿÿÿÿ

@@ -1,0 +1,10 @@
+
+a
+java:S1192"FDefine a constant instead of duplicating this literal "email" 3 times.(Ë­ªÕüÿÿÿÿ
+s
+java:S1192"XDefine a constant instead of duplicating this literal "cliente.teste@gmail.com" 3 times.(Ë­ªÕüÿÿÿÿ
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(î½©îøÿÿÿÿ
+Q	java:S125<"<This block of commented-out lines of code should be removed.(´ŠÜÙ
+S	java:S106B"9Replace this use of System.out or System.err by a logger.(Ùğ¡åøÿÿÿÿ
+Z
+java:S1144"DRemove this unused private "consultaDadosSolicitacaoRetorno" method.(Â©Œî
